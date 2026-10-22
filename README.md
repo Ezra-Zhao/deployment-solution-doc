@@ -44,6 +44,7 @@ Read in order; each document ends with open items and decision gates.
 | 3 | `docs/03-phased-cutover-and-rollback.md` | In what order do we go live, and how do we back out at each step? |
 | 4 | `docs/04-operations-tooling-and-onboarding.md` | Who operates it on day 2, with what tools, trained how? |
 | 5 | `docs/05-defense-qa.md` | One page: the hard technical and commercial questions, and the honest answers. |
+| 6 | `docs/06-poc-sample-ai-support.md` | POC plan sample (AI customer-support agent): discovery questions, quantifiable success criteria, weekly timeline, risks, acceptance — on the author's own de-identified business case. |
 | — | `VERIFICATION.md` | Sources consulted, link checks, and self-audit results. |
 
 ## Honesty boundaries (read this first if you are evaluating)
