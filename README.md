@@ -28,8 +28,8 @@ SOPs), restructured for a pre-sales / customer-success setting.
 
 Author background relevant to this sample (stated qualitatively, no
 invented metrics): rack-level (L11/L12) AI server integration and POC
-build documentation as a PE at Quanta; data-center infrastructure
-engineering at Asiacom at roughly 1,000-rack scale, including
+build documentation as a PE at a contract manufacturer; data-center
+infrastructure engineering at roughly 1,000-rack scale, including
 troubleshooting SOPs and onboarding new engineers; PMP since 2010.
 
 ## How to read it
